@@ -1,0 +1,15 @@
+[submodule "20TouchEventsAndUIResponderMRCObjectiveC"]
+	path = 20TouchEventsAndUIResponderMRCObjectiveC
+	url = git@github.com:c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC.git
+[submodule "21Instruments"]
+	path = 21Instruments
+	url = git@github.com:c4arl0s/21Instruments.git
+[submodule "22CoreAnimationLayer"]
+	path = 22CoreAnimationLayer
+	url = git@github.com:c4arl0s/22CoreAnimationLayer.git
+[submodule "23ControllingAnimationWithCAAnimation"]
+	path = 23ControllingAnimationWithCAAnimation
+	url = git@github.com:c4arl0s/23ControllingAnimationWithCAAnimation.git
+[submodule "24BlocksAndCategoriesObjectiveCMRC"]
+	path = 24BlocksAndCategoriesObjectiveCMRC
+	url = git@github.com:c4arl0s/24BlocksAndCategoriesObjectiveCMRC.git
