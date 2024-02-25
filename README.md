@@ -1,5 +1,11 @@
 # [go back to Overview](https://github.com/c4arl0s#ios-apps-using-objective-cuikit)
 
+In order to update an existing Git submodule execute: (You might need permissions from Owner to get submodules)
+
+```console
+git submodule update --remote --merge
+```
+
 # [Touchtracker App - Objective-C](https://github.com/c4arl0s/20TouchEventsAndUIResponderMRCObjectiveC#2-creating-the-touchtracker-application)
 
  This application lets the user draw lines by dragging across the view, you will be able to delete them and save them.
